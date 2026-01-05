@@ -6,7 +6,7 @@
 ---
 ## 🏷️ Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.13.5-blue?logo=python" />
   <img src="https://img.shields.io/badge/XGBoost-ML-success" />
   <img src="https://img.shields.io/badge/Tkinter-GUI-orange" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
