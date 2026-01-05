@@ -4,7 +4,16 @@
 هدف اصلی پروژه، پیاده‌سازی یک pipeline کامل و قابل اتکا برای یک مسئله‌ی طبقه‌بندی تصویر بدون استفاده از یادگیری عمیق است.
 
 ---
+## 🏷️ Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/XGBoost-ML-success" />
+  <img src="https://img.shields.io/badge/Tkinter-GUI-orange" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+</p>
 
+---
 ## مراحل انجام پروژه
 
 ### 1️⃣ ساخت دیتاست
