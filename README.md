@@ -99,7 +99,7 @@ https://github.com/JC-ProgJava/Handwritten-Digit-Dataset
 ---
 
 ## تکنولوژی‌های استفاده‌شده
-- Python
+- Python **3.13.5**
 - NumPy
 - Pandas
 - Scikit-learn
